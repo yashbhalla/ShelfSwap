@@ -1,6 +1,6 @@
 # 📚 ShelfSwap: Book Trading and Sharing Platform
 
-Welcome to the **Book Trading and Sharing Platform** repository! This project is designed to help users trade and lend books in their local area. The platform aims to connect book lovers, promote sustainable sharing, and foster a community of avid readers.  
+Welcome to the **ShelfSwap: Book Trading and Sharing Platform** repository! This project is designed to help users trade and lend books in their local area. The platform aims to connect book lovers, promote sustainable sharing, and foster a community of avid readers.  
 
 ## 🌟 Project Overview
 
